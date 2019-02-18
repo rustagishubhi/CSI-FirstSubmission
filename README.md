@@ -13,6 +13,7 @@ Pull requests on the repository:
 - https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/121
 - https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/122
 - https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/123
+- https://github.com/OpenSouce-LNMIIT/Cybros-Web-Application/pull/124
 
 The contributions done by individual team members:
 - Shubhi Rustagi (https://github.com/rustagishubhi/CSI-Project-Report)
